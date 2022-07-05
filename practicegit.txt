@@ -8,4 +8,6 @@ I know a little bit mor of git and github
 
 I'm the best, I'm learn fast XD
 
-git add . / git commit / git status / git log / git log --stat /
+git add . / git commit / git status / git log / git log --stat / git checkout ab2372tdv34... /
+
+git rest / git rest --soft / git rest --hard /
