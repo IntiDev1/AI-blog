@@ -3,3 +3,5 @@ This is a practice git shift
 Practice commitment and branches 
 
 how to manage the flow git 
+
+I know a little bit mor of git and github
