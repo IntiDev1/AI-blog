@@ -9,7 +9,7 @@ body
 }
 #cabeceraa
 {
-    background: #33D;
+    background: #337;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -37,5 +37,13 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }

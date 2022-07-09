@@ -12,4 +12,4 @@ git add . / git commit / git status / git log / git log --stat / git show / git 
 
 git rest / git rest --soft / git rest --hard / git push / git pull / 
 
-vim practiceGit.txt /  
+git clone https(url) / 
