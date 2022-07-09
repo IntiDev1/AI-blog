@@ -12,7 +12,7 @@ git add . / git commit / git status / git log / git log --stat / git show / git 
 
 git rest / git rest --soft / git rest --hard / git push / git pull / 
 
-git clone https(url) / 
+git clone https(url) / git rebase master (mala-practica)/ 
 
 master1
 master2
