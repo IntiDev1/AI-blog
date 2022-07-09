@@ -15,3 +15,4 @@ git rest / git rest --soft / git rest --hard / git push / git pull /
 git clone https(url) / 
 
 master1
+master2
