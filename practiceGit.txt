@@ -16,3 +16,5 @@ git clone https(url) / git rebase master (mala-practica)/
 
 master1
 master2
+
+haciendo un herror a proposito obvio!!!cs
