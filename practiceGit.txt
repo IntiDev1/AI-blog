@@ -20,3 +20,12 @@ git clean (limpia tu proyecto de archivos no deseados) / git clean --dry-run / g
 
 git reflog (shows all) / git reset --HARD c8934144 / git reset --SOFT m466475 /
 
+git add css/estilos.css / git commit --amend / 
+
+git grep color,footer,blog / git grep -n color / git grep -c blog / git log -S "cabecera" /
+
+git shortlog (how many commits) / git shortlog -sn (number of commits) / git shortlog -sn --all / git shortlog -sn --all --no-merges /
+
+git blame blogpst.html (who made what) / git blame -c blogpost.html / 
+
+git config --global alias.stats "shortlog -sn --all --no-merges" (create alias) / 
