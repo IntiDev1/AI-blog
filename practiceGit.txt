@@ -18,4 +18,5 @@ git stash (guardar cambios en memoriay recuperarlos despues) / git stash list / 
 
 git clean (limpia tu proyecto de archivos no deseados) / git clean --dry-run / git clean -f /
 
+git reflog (shows all) / git reset --HARD c8934144 / git reset --SOFT m466475 /
 
