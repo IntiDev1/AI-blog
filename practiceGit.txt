@@ -8,7 +8,9 @@ I know a little bit mor of git and github
 
 I'm the best, I'm learn fast XD
 
-git add . / git commit / git status / git log / git log --stat / git show / git checkout ab2372tdv34... /
+
+
+git add . / git commit / git status / git log / git log --stat / git show / git checkout ab2372tdv34... / git branch -r (ramas remotas, en github) / git branch -a (shows all branches) /
 
 git rest / git rest --soft / git rest --hard / git push / git pull / 
 
@@ -26,6 +28,6 @@ git grep color,footer,blog / git grep -n color / git grep -c blog / git log -S "
 
 git shortlog (how many commits) / git shortlog -sn (number of commits) / git shortlog -sn --all / git shortlog -sn --all --no-merges /
 
-git blame blogpst.html (who made what) / git blame -c blogpost.html / 
+git blame blogpst.html (who made what) / git blame -c blogpost.html / git blame css/estilos.css -L35.56 / git blame css/estilos.css -L35.56 -c /
 
 git config --global alias.stats "shortlog -sn --all --no-merges" (create alias) / 
