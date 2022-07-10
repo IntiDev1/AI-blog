@@ -14,7 +14,8 @@ git rest / git rest --soft / git rest --hard / git push / git pull /
 
 git clone https(url) / git rebase master (mala-practica)/ 
 
-git stash (guardar cambios en memoriay recuperarlos despues)/ git stash list / git stash drop / git stash branch name /
+git stash (guardar cambios en memoriay recuperarlos despues) / git stash list / git stash drop / git stash branch name /
 
-master1
-master2
+git clean (limpia tu proyecto de archivos no deseados) / git clean --dry-run / git clean -f /
+
+
